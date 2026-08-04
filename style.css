@@ -9,12 +9,12 @@
 :root {
   --cream: #ffffff;
   --cream-deep: #0166b3;
-  --indigo: #1c2e4a;
-  --indigo-soft: #34496b;
+  --indigo: #0166b3;
+  --indigo-soft: #0166b3;
   --gold: #0166b3;
-  --gold-soft: #d8b98a;
-  --ink: #262421;
-  --ink-soft: #63594c;
+  --gold-soft: #0166b3;
+  --ink: #102637;
+  --ink-soft: #3070A1;
   --line: #0166b3;
   --max: 980px;
 }
