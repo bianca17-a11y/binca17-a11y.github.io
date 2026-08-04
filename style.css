@@ -28,7 +28,7 @@ body {
   background: var(--cream);
   color: var(--ink);
   font-family: 'Source Sans 3', system-ui, sans-serif;
-  font-size: 17px;
+  font-size: 20px;
   line-height: 1.65;
   -webkit-font-smoothing: antialiased;
 }
@@ -47,7 +47,7 @@ img { max-width: 100%; display: block; }
 .wrap {
   max-width: var(--max);
   margin: 0 auto;
-  padding: 0 28px;
+  padding: 0 40px;
 }
 
 /* ---------- Header / crest / nav ---------- */
@@ -72,7 +72,7 @@ img { max-width: 100%; display: block; }
 }
 
 .site-title {
-  font-size: 30px;
+  font-size: 40px;
   letter-spacing: 0.02em;
 }
 
@@ -95,7 +95,7 @@ nav.main-nav ul {
 
 nav.main-nav a {
   text-decoration: none;
-  font-size: 14px;
+  font-size: 20px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--ink-soft);
