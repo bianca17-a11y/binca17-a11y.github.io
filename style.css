@@ -58,8 +58,8 @@ img { max-width: 100%; display: block; }
 }
 
 .crest {
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   margin: 0 auto 18px;
   border: 0px solid var(--gold);
   border-radius: 50%;
