@@ -63,7 +63,8 @@ img { max-width: 100%; display: block; }
   margin: 0 auto 18px;
   border: 1.5px solid var(--gold);
   border-radius: 50%;
-  display: flex;
+  display: block;
+  object-fit: contain;
   align-items: center;
   justify-content: center;
   color: var(--gold);
