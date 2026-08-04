@@ -7,15 +7,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Source+Sans+3:wght@400;500;600&display=swap');
 
 :root {
-  --cream: #faf7f2;
-  --cream-deep: #f2ede3;
+  --cream: #ffffff;
+  --cream-deep: #0166b3;
   --indigo: #1c2e4a;
   --indigo-soft: #34496b;
-  --gold: #b8935a;
+  --gold: #0166b3;
   --gold-soft: #d8b98a;
   --ink: #262421;
   --ink-soft: #63594c;
-  --line: #ddd3c1;
+  --line: #0166b3;
   --max: 980px;
 }
 
