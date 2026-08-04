@@ -216,7 +216,7 @@ section + section {
   align-items: center;
 }
 
-.split.reverse .arch-frame { order: 2; }
+.split.reverse .arch-frame { order: -1; }
 
 .intro-text {
   max-width: 640px;
