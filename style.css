@@ -4,18 +4,18 @@
    Type:     Cormorant Garamond (display) + Source Sans 3 (body)
    ============================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Source+Sans+3:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
 
 :root {
-  --cream: #ffffff;
-  --cream-deep: #0166b3;
-  --indigo: #0166b3;
-  --indigo-soft: #0166b3;
-  --gold: #0166b3;
-  --gold-soft: #0166b3;
-  --ink: #102637;
-  --ink-soft: #3070A1;
-  --line: #0166b3;
+  --cream: #000000;
+  --cream-deep: #000000;
+  --indigo: #000000;
+  --indigo-soft: #000000;
+  --gold: #000000;
+  --gold-soft: #000000;
+  --ink: #000000;
+  --ink-soft: #797979;
+  --line: #797979;
   --max: 980px;
 }
 
@@ -34,7 +34,7 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: "Google Sans", sans-serif;
   font-weight: 600;
   color: var(--indigo);
   margin: 0;
