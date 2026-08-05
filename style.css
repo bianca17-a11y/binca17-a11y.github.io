@@ -83,42 +83,8 @@ nav.main-nav ul { list-style: none; display: flex; align-items: center; gap: 32p
   nav.main-nav ul.open { display: flex; }
 }
 
-.crest {
-  width: 100px;
-  height: 100px;
-  margin: 0 auto 18px;
-  border: 0px solid var(--gold);
-  border-radius: 50%;
-  display: block;
-  object-fit: contain;
-  align-items: center;
-  justify-content: center;
-  color: var(--gold);
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 20px;
-}
-
-.site-title {
-  font-size: 55px;
-  letter-spacing: 0.02em;
-}
-
 .site-title a { text-decoration: none; }
 
-nav.main-nav {
-  margin: 26px 0 0;
-  border-top: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
-}
-
-nav.main-nav ul {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  gap: 40px;
-  margin: 0;
-  padding: 14px 0;
-}
 
 nav.main-nav a {
   text-decoration: none;
