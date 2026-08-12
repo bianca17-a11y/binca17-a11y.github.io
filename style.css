@@ -52,6 +52,15 @@ img { max-width: 100%; display: block; }
   padding: 0 40px;
 }
 
+.full-bleed {
+  width: 100%;
+  margin: 0;
+}
+.full-bleed img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
 /* ---------- Header / crest / nav ---------- */
 
 .site-header {
