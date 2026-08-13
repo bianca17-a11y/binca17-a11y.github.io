@@ -73,7 +73,7 @@ img { max-width: 100%; display: block; }
   align-items: center;
   justify-content: space-between;
   padding: 14px 0;
-  postition: relative;
+  position: relative;
 }
 
 .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; }
@@ -92,7 +92,6 @@ nav.main-nav ul {
    padding: 22px 28px 26px; z-index: 20;
 }
 nav.main-nav ul.open { display: flex; }
-}
 
 .site-title a { text-decoration: none; }
 
