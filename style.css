@@ -16,7 +16,7 @@
   --ink: #000000;
   --ink-soft: #797979;
   --line: #797979;
-  --max: 1960px;
+  --max: 1900px;
 }
 
 * { box-sizing: border-box; }
@@ -64,7 +64,7 @@ img { max-width: 100%; display: block; }
 /* ---------- Header / crest / nav ---------- */
 
 .site-header {
-  padding: 44px 0 0;
+  padding: 50px 0 0;
   text-align: left;
 }
 
