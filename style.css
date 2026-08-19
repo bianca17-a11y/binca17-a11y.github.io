@@ -227,7 +227,6 @@ section + section {
 .split.reverse .arch-frame { order: -1; }
 
 .intro-text {
-  max-width: 1000px;
   color: var(--ink-soft);
 }
 
