@@ -190,6 +190,12 @@ section + section {
   border-radius: 6px;
 }
 
+.title-stack {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.15;
+}
+
 /* ---------- Cards (Služby grid) ---------- */
 
 .card-grid {
@@ -221,7 +227,7 @@ section + section {
 .split.reverse .arch-frame { order: -1; }
 
 .intro-text {
-  max-width: 640px;
+  max-width: 1000px;
   color: var(--ink-soft);
 }
 
