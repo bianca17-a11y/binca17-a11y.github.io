@@ -16,7 +16,7 @@
   --ink: #000000;
   --ink-soft: #797979;
   --line: #797979;
-  --max: 1900px;
+  --max: 1800px;
 }
 
 * { box-sizing: border-box; }
