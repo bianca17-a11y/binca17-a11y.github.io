@@ -81,8 +81,8 @@ img { max-width: 100%; display: block; }
 .site-title { font-size: 21px; text-align: left; }
 nav.main-nav { display: flex; align-items: center; gap: 8px; }
 nav.main-nav ul { list-style: none; display: flex; align-items: center; gap: 32px; margin: 0; padding: 0; }
-.nav-toggle { display: block; background: none; border: none; cursor: pointer; padding: 8px; }
-.nav-toggle span { display: block; width: 22px; height: 2px; background: var(--indigo); margin: 4px 0; }
+.nav-toggle { display: block; background: none; border: none; cursor: pointer; padding: 12px; }
+.nav-toggle span { display: block; width: 28px; height: 3px; background: var(--indigo); margin: 5px 0; }
 
 
 nav.main-nav ul {
