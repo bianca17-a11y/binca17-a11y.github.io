@@ -77,7 +77,7 @@ img { max-width: 100%; display: block; }
 }
 
 .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; }
-.crest { width: 60px; height: 60px; object-fit: contain; display: block; }
+.crest { width: 70px; height: 60px; object-fit: contain; display: block; }
 .site-title { font-size: 35px; text-align: left; }
 nav.main-nav { display: flex; align-items: center; gap: 8px; }
 nav.main-nav ul { list-style: none; display: flex; align-items: center; gap: 32px; margin: 0; padding: 0; }
