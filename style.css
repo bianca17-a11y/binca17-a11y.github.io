@@ -78,8 +78,8 @@ img { max-width: 100%; display: block; }
 
 .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; }
 .crest { width: 44px; height: 40px; object-fit: contain; display: block; }
-.site-title-main { font-size: 24px; text-align: left; }
-.site-title-sub { font-size: 16px; font-weight: 400; text-align: left; }
+.site-title-main { font-size: 30px; text-align: left; }
+.site-title-sub { font-size: 20px; font-weight: 400; text-align: left; }
 nav.main-nav { display: flex; align-items: center; gap: 8px; }
 nav.main-nav ul { list-style: none; display: flex; align-items: center; gap: 32px; margin: 0; padding: 0; }
 .nav-toggle { display: block; background: none; border: none; cursor: pointer; padding: 12px; margin-right: 12px; }
@@ -121,7 +121,7 @@ nav.main-nav a[aria-current="page"] {
 }
 
 .section-head h2 {
-  font-size: 34px;
+  font-size: 30px;
 }
 
 .section-head .rule {
