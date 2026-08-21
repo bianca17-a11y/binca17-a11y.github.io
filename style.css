@@ -68,6 +68,10 @@ img { max-width: 100%; display: block; }
   text-align: left;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .header-inner {
   display: flex;
   align-items: center;
