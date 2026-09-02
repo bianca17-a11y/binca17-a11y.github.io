@@ -1,3 +1,13 @@
+(function () {
+  var isEnglishPage = window.location.pathname.includes('-en.html');
+  var userChose = localStorage.getItem('langChoice');
+  var browserLang = navigator.language || navigator.userLanguage;
+
+  if (!userChose && browserLang.startsWith('en') && !isEnglishPage) {
+    var enVersion = window.location.pathname.replace('.html', '-en.html');
+    window.location.href = enVersion;
+  }
+})();
 
 document.addEventListener('DOMContentLoaded', function () {
   var toggle = document.querySelector('.nav-toggle');
